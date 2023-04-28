@@ -6,6 +6,13 @@ let cards = [
     author: "aschwir",
     githubLink: "https://github.com/aschwir",
   },
+   {
+    artName: 'Animate',
+    pageLink: './Art/Someshwar/Animate.html',
+    imageLink: './Art/Someshwar/pot.gif',
+    author: 'Someshwar',
+    githubLink: 'https://github.com/SomeshwarDuvedi'
+  },
   {
     artName: "Alright",
     pageLink: "./Art/arjunan-k/index.html",
